@@ -1,7 +1,17 @@
 [
 	{
-		"id": 428,
-		"name": "Rainbow Seasonal [PH]",
-		"text": "Rainbow Seasonal [PH]"
+		"id": 450,
+		"name": "Faire Play",
+		"text": "Eye spy plenty of surprises in store for you at Darkmoon.\n\nAcquired by winning 5 games in ranked mode, October 2024."
+	},
+	{
+		"id": 447,
+		"name": "Mudan",
+		"text": "As long as we’re together, we’ll always bloom brightly!\n\nObtainable by participating in a special event."
+	},
+	{
+		"id": 446,
+		"name": "Leyara",
+		"text": "When it comes to defending the wild, she’s straight fire.\n\nPurchasable when available in the shop."
 	}
 ]
