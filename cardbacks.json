@@ -1,5 +1,23 @@
 [
     {
+        "id": 462,
+        "name": "Ysera",
+        "text": "The Dreamer may fade, but her Dream is eternal.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 463,
+        "name": "Vanessa",
+        "text": "This card back is usually in disguise, but it’s made an exception for your eyes only.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 464,
+        "name": "Waywatcher",
+        "text": "The corrupt will be crushed under the might of Malorne's antlers.\n\nAcquired by winning 5 games in ranked mode, April 2025.",
+        "Category": "Seasonal"
+    },
+    {
         "id": 466,
         "name": "Dreamscape",
         "text": "Where beauty and corruption collide in an ever-evolving dance.\n\nEarnable on the <i>Into the Emerald Dream</i> reward track.",
