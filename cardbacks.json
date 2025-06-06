@@ -1,44 +1,32 @@
 [
     {
-        "id": 462,
-        "name": "Ysera",
-        "text": "The Dreamer may fade, but her Dream is eternal.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 463,
-        "name": "Vanessa",
-        "text": "This card back is usually in disguise, but it’s made an exception for your eyes only.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 464,
-        "name": "Waywatcher",
-        "text": "The corrupt will be crushed under the might of Malorne's antlers.\n\nAcquired by winning 5 games in ranked mode, April 2025.",
+        "id": 472,
+        "name": "Crackle",
+        "text": "Remember, only the Guardians of Hyjal can prevent forest fires.\n\nAcquired by winning 5 games in ranked mode, June 2025.",
         "Category": "Seasonal"
     },
     {
-        "id": 466,
-        "name": "Dreamscape",
-        "text": "Where beauty and corruption collide in an ever-evolving dance.\n\nEarnable on the <i>Into the Emerald Dream</i> reward track.",
-        "Category": "Expansions"
-    },
-    {
-        "id": 468,
-        "name": "Xavius",
-        "text": "Being transformed into a tree can make you a bit... twisted.\n\nEarnable on the <i>Into the Emerald Dream</i> reward track.",
+        "id": 473,
+        "name": "Umbra",
+        "text": "Deep within the jungle, deception can grow like a weed.\n\nPurchasable when available in the shop.",
         "Category": "Hero Skins"
     },
     {
-        "id": 469,
-        "name": "Emerald Nightmare",
-        "text": "A blossoming dream can still wither into a nightmare.\n\nAcquired by winning 5 games in ranked mode, May 2025.",
+        "id": 474,
+        "name": "The Jailer",
+        "text": "Condemned to rule the ruthless Maw, there are still some cards he can draw.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 475,
+        "name": "Seeker",
+        "text": "May the fire of exploration light your way... and your soup!\n\nAcquired by winning 5 games in ranked mode, July 2025.",
         "Category": "Seasonal"
     },
     {
-        "id": 470,
-        "name": "Vivian",
-        "text": "Not every poison is easy to use, but that never stopped her from trying.\n\nPurchasable when available in the shop.",
+        "id": 481,
+        "name": "Ahune",
+        "text": "Because everyone can use a frozen treat.\n\nPurchasable when available in the shop. ",
         "Category": "Hero Skins"
     }
 ]
