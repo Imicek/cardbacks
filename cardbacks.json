@@ -1,32 +1,38 @@
 [
     {
-        "id": 472,
-        "name": "Crackle",
-        "text": "Remember, only the Guardians of Hyjal can prevent forest fires.\n\nAcquired by winning 5 games in ranked mode, June 2025.",
+        "id": 476,
+        "name": "Clever Girl",
+        "text": "Hungry for big wins.\n\nObtained within Darkmoon Faire Treasures.",
+        "Category": "None"
+    },
+    {
+        "id": 477,
+        "name": "Feathermoon",
+        "text": "\"The thrill of the hunt...There's nothing like it.\"\n\nEarnable after purchasing the <i>The Lost City of Un'Goro</i> Tavern Pass.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 478,
+        "name": "Aegwynn",
+        "text": "The Guardian of Tirisfal expects great things from you. Go impress her.\n\nObtained within Darkmoon Faire Treasures alongside the Aegwynn Hero Skin.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 479,
+        "name": "Sanctuary",
+        "text": "Become immortal.\n\nAcquired by participating in an online promotion.",
+        "Category": "Games"
+    },
+    {
+        "id": 480,
+        "name": "Gardens of the Lost City",
+        "text": "The City's got some great restaurants, but the service is really slow.\n\nAcquired by winning 5 games in ranked mode, August 2025.",
         "Category": "Seasonal"
     },
     {
-        "id": 473,
-        "name": "Umbra",
-        "text": "Deep within the jungle, deception can grow like a weed.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 474,
-        "name": "The Jailer",
-        "text": "Condemned to rule the ruthless Maw, there are still some cards he can draw.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 475,
-        "name": "Seeker",
-        "text": "May the fire of exploration light your way... and your soup!\n\nAcquired by winning 5 games in ranked mode, July 2025.",
-        "Category": "Seasonal"
-    },
-    {
-        "id": 481,
-        "name": "Ahune",
-        "text": "Because everyone can use a frozen treat.\n\nPurchasable when available in the shop. ",
-        "Category": "Hero Skins"
+        "id": 482,
+        "name": "The Lost City",
+        "text": "Things of true value are rarely found with ease.\n\nEarnable on <i>The Lost City of Un'Goro</i> Reward Track.",
+        "Category": "Expansions"
     }
 ]
