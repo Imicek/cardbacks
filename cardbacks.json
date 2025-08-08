@@ -1,38 +1,15 @@
 [
     {
-        "id": 476,
-        "name": "Clever Girl",
-        "text": "Hungry for big wins.\n\nObtained within Darkmoon Faire Treasures.",
-        "Category": "None"
-    },
-    {
-        "id": 477,
-        "name": "Feathermoon",
-        "text": "\"The thrill of the hunt...There's nothing like it.\"\n\nEarnable after purchasing the <i>The Lost City of Un'Goro</i> Tavern Pass.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 478,
-        "name": "Aegwynn",
-        "text": "The Guardian of Tirisfal expects great things from you. Go impress her.\n\nObtained within Darkmoon Faire Treasures alongside the Aegwynn Hero Skin.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 479,
-        "name": "Sanctuary",
-        "text": "Become immortal.\n\nAcquired by participating in an online promotion.",
-        "Category": "Games"
-    },
-    {
-        "id": 480,
-        "name": "Gardens of the Lost City",
-        "text": "The City's got some great restaurants, but the service is really slow.\n\nAcquired by winning 5 games in ranked mode, August 2025.",
+        "id": 483,
+        "name": "Year of the Pegasus",
+        "text": "Fly high!\n\nAcquired from winning five games in Ranked Play, September 2025.",
         "Category": "Seasonal"
     },
     {
-        "id": 482,
-        "name": "The Lost City",
-        "text": "Things of true value are rarely found with ease.\n\nEarnable on <i>The Lost City of Un'Goro</i> Reward Track.",
-        "Category": "Expansions"
+        "id": 486,
+        "name": "Dirdra",
+        "text": "Take the fight straight to the enemy.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
     }
 ]
+
