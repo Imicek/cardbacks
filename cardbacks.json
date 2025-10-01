@@ -1,68 +1,20 @@
 [
     {
-        "id": 476,
-        "name": "Clever Girl",
-        "text": "Hungry for big wins.\n\nObtained within Darkmoon Faire Treasures.",
-        "Category": "None"
-    },
-    {
-        "id": 477,
-        "name": "Feathermoon",
-        "text": "\"The thrill of the hunt...There's nothing like it.\"\n\nEarnable after purchasing the <i>The Lost City of Un'Goro</i> Tavern Pass.",
+        "id": 493,
+        "name": "Alexstrasza",
+        "text": "Life, ah, finds a way. So will you.\n\nObtained within Darkmoon Faire Treasures.",
         "Category": "Hero Skins"
     },
     {
-        "id": 478,
-        "name": "Aegwynn",
-        "text": "The Guardian of Tirisfal expects great things from you. Go impress her.\n\nObtained within Darkmoon Faire Treasures alongside the Aegwynn Hero Skin.",
+        "id": 494,
+        "name": "Chromie",
+        "text": "Whenever you go, you'll always have a friend in Chromie.\n\nPurchasable when available in the shop.",
         "Category": "Hero Skins"
     },
     {
-        "id": 479,
-        "name": "Sanctuary",
-        "text": "Become immortal.\n\nAcquired by participating in an online promotion.",
-        "Category": "Games"
-    },
-    {
-        "id": 480,
-        "name": "Gardens of the Lost City",
-        "text": "The City's got some great restaurants, but the service is really slow.\n\nAcquired by winning 5 games in ranked mode, August 2025.",
+        "id": 496,
+        "name": "Zereth Mortis",
+        "text": "Test out some new tactics.\n\nAcquired from winning five games in Ranked Play, November 2025.",
         "Category": "Seasonal"
-    },
-    {
-        "id": 482,
-        "name": "The Lost City",
-        "text": "Things of true value are rarely found with ease.\n\nEarnable on <i>The Lost City of Un'Goro</i> Reward Track.",
-        "Category": "Expansions"
-    },
-    {
-        "id": 483,
-        "name": "Year of the Pegasus",
-        "text": "Fly high!\n\nAcquired from winning five games in Ranked Play, September 2025.",
-        "Category": "Seasonal"
-    },
-    {
-        "id": 486,
-        "name": "Dirdra",
-        "text": "Take the fight straight to the enemy.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 489,
-        "name": "Faerin",
-        "text": "A Lamplighter brings hope.\n\nObtained within Darkmoon Faire Treasures.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 490,
-        "name": "Cultist",
-        "text": "Sure, the Cult of the Damned's schemes don't have a great track record. But THIS time...\n\nAcquired from winning five games in Ranked Play, October 2025.",
-        "Category": "Seasonal"
-    },
-    {
-        "id": 491,
-        "name": "Rebirth Celebration",
-        "text": "From ashes we rise, and the shells we break – we honor our journey and the joy of life anew.\n\nObtained by participating in a special event.",
-        "Category": "Events"
     }
 ]
