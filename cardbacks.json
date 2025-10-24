@@ -1,20 +1,39 @@
 [
     {
-        "id": 493,
-        "name": "Alexstrasza",
-        "text": "Life, ah, finds a way. So will you.\n\nObtained within Darkmoon Faire Treasures.",
+        "id": 495,
+        "name": "Broxigar",
+        "text": "If you fall in battle, take a horde of demons with you.\n\nPurchasable when available in the shop.",
         "Category": "Hero Skins"
     },
     {
-        "id": 494,
-        "name": "Chromie",
-        "text": "Whenever you go, you'll always have a friend in Chromie.\n\nPurchasable when available in the shop.",
+        "id": 498,
+        "name": "Husk",
+        "text": "Try to look like you belong here.\n\nObtainable within Darkmoon Faire Treasures.",
+        "Category": "None"
+    },
+    {
+        "id": 500,
+        "name": "Champion’s Crest 2025",
+        "text": "Amid a storming spiral of competitors, epic plays, and dreams, one rose to become a legend.\n\nObtained by completing the <i>\"To Be A Champion!\"</i> questline.",
+        "Category": "Events"
+    },
+    {
+        "id": 502,
+        "name": "Mekkatorque",
+        "text": "There's nothing you can't accomplish with a little ingenuity.\n\nEarnable after purchasing the Across the Timeways Tavern Pass.",
         "Category": "Hero Skins"
     },
     {
-        "id": 496,
-        "name": "Zereth Mortis",
-        "text": "Test out some new tactics.\n\nAcquired from winning five games in Ranked Play, November 2025.",
+        "id": 503,
+        "name": "Time War",
+        "text": "Fight for your future.\n\nEarnable on the <i>Across the Timeways</i> Reward Track.",
+        "Category": "Expansions"
+    },
+    {
+        "id": 504,
+        "name": "Year of the Wolf",
+        "text": "The strength of the pack is the wolf, and the strength of the wolf is the pack.\n\nAcquired from winning five games in Ranked Play, December 2025.",
         "Category": "Seasonal"
     }
 ]
+
