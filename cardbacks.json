@@ -1,39 +1,26 @@
 [
     {
-        "id": 495,
-        "name": "Broxigar",
-        "text": "If you fall in battle, take a horde of demons with you.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 498,
-        "name": "Husk",
-        "text": "Try to look like you belong here.\n\nObtainable within Darkmoon Faire Treasures.",
-        "Category": "None"
-    },
-    {
-        "id": 500,
-        "name": "Champion’s Crest 2025",
-        "text": "Amid a storming spiral of competitors, epic plays, and dreams, one rose to become a legend.\n\nObtained by completing the <i>\"To Be A Champion!\"</i> questline.",
-        "Category": "Events"
-    },
-    {
-        "id": 502,
-        "name": "Mekkatorque",
-        "text": "There's nothing you can't accomplish with a little ingenuity.\n\nEarnable after purchasing the Across the Timeways Tavern Pass.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 503,
-        "name": "Time War",
-        "text": "Fight for your future.\n\nEarnable on the <i>Across the Timeways</i> Reward Track.",
-        "Category": "Expansions"
-    },
-    {
-        "id": 504,
-        "name": "Year of the Wolf",
-        "text": "The strength of the pack is the wolf, and the strength of the wolf is the pack.\n\nAcquired from winning five games in Ranked Play, December 2025.",
+        "id": 505,
+        "name": "Hour of Twilight",
+        "text": "Defy the inevitable.\n\nAcquired from winning five games in Ranked Play, January 2026.",
         "Category": "Seasonal"
+    },
+    {
+        "id": 507,
+        "name": "Wilfred Fizzlebang",
+        "text": "Soon all the world will know your name.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 509,
+        "name": "Allari the Souleater",
+        "text": "Some things are worth the sacrifice.\n\nObtained within Darkmoon Faire Treasures.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 510,
+        "name": "Hearth & Home",
+        "text": "Though you may adventure in many lands, you'll always have a home in Azeroth.\n\nAcquired by earning the “Welcome Home” achievement in World of Warcraft.",
+        "Category": "Promotions"
     }
 ]
-
