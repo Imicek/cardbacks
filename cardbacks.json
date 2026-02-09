@@ -1,32 +1,26 @@
 [
     {
-        "id": 488,
-        "name": "Winter Queen",
-        "text": "Dream sweetly of victory.\n\nObtained within Darkmoon Faire Treasures.",
+        "id": 514,
+        "name": "Sinestra",
+        "text": "Revenge is a dish best served cold.\n\nPurchasable when available in the shop.",
         "Category": "Hero Skins"
     },
     {
-        "id": 511,
-        "name": "King Maluk",
-        "text": "May your victories be infinite.\n\nObtained within Darkmoon Faire Treasures.",
-        "Category": "Hero Skins"
-    },
-    {
-        "id": 515,
-        "name": "Spirit of the Horse",
-        "text": "Run wild.\n\nAcquired from winning five games in Ranked Play, February 2026.",
+        "id": 518,
+        "name": "High King",
+        "text": "Bring this to ME!\n\nAcquired from winning five games in Ranked Play, March 2026.",
         "Category": "Seasonal"
     },
     {
-        "id": 516,
-        "name": "End Time",
-        "text": "It all ends here.\n\nObtained by participating in a special event.",
-        "Category": "Events"
+        "id": 522,
+        "name": "Tsulong",
+        "text": "Protect what you hold sacred.\n\nObtained within Darkmoon Faire Treasures.",
+        "Category": "Hero Skins"
     },
     {
-        "id": 517,
-        "name": "Roaring Dragon",
-        "text": "The bells ring for your victories.\n\nObtained by participating in a special event.",
+        "id": 524,
+        "name": "Golden Dragon",
+        "text": "Show them the dragon's fury.\n\nObtained by participating in a special event.",
         "Category": "Events"
     }
 ]
