@@ -1,26 +1,56 @@
 [
     {
-        "id": 514,
-        "name": "Sinestra",
-        "text": "Revenge is a dish best served cold.\n\nPurchasable when available in the shop.",
-        "Category": "Hero Skins"
+        "id": 513,
+        "name": "Cataclysm",
+        "text": "Shatter their world.\n\nEarnable after purchasing the CATACLYSM Tavern Pass.",
+        "Category": "Events"
     },
     {
-        "id": 518,
-        "name": "High King",
-        "text": "Bring this to ME!\n\nAcquired from winning five games in Ranked Play, March 2026.",
+        "id": 519,
+        "name": "Wyrmrest",
+        "text": "Hold your last stand here.\n\nAcquired from winning five games in Ranked Play, April 2026.",
         "Category": "Seasonal"
     },
     {
-        "id": 522,
-        "name": "Tsulong",
-        "text": "Protect what you hold sacred.\n\nObtained within Darkmoon Faire Treasures.",
+        "id": 521,
+        "name": "Worldbreaker",
+        "text": "Inevitable, indomitable.\n\nObtainable within Darkmoon Faire Treasures.",
+        "Category": "Events"
+    },
+    {
+        "id": 525,
+        "name": "Merithra",
+        "text": "Show them your dreams are worth defending.\n\nPurchasable when available in the shop.",
         "Category": "Hero Skins"
     },
     {
-        "id": 524,
-        "name": "Golden Dragon",
-        "text": "Show them the dragon's fury.\n\nObtained by participating in a special event.",
+        "id": 526,
+        "name": "Magmaw",
+        "text": "Burn it all down.\n\nEarnable after purchasing the CATACLYSM Tavern Pass.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 528,
+        "name": "Nefarius",
+        "text": "Let the games begin.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
+    },
+    {
+        "id": 529,
+        "name": "Cataclysmic Brawler",
+        "text": "The world shattered. The win streak didn't. Cheers!\n\nAcquired by earning the \"CATACLYSM Pre-Release Pro\" achievement.",
         "Category": "Events"
+    },
+    {
+        "id": 531,
+        "name": "Legend of the Scarab",
+        "text": "A true Legend becomes one with the Scarab.\n\nAcquired from achieving Legend Rank in Ranked Play during the Year of the Scarab.",
+        "Category": "Events"
+    },
+    {
+        "id": 532,
+        "name": "Benedictus",
+        "text": "No Light, only power.\n\nPurchasable when available in the shop.",
+        "Category": "Hero Skins"
     }
 ]
